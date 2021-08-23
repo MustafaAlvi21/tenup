@@ -1,0 +1,61 @@
+@font-face { font-family: "Poppins"; src: url('./fonts/Montserrat/Montserrat-Regular.ttf'); } 
+
+body{
+    font-family: Poppins !important;
+}
+.main{
+    background-color: #7645D9 !important;
+    padding-top: 0% !important;
+}
+.content{
+    padding-top: 0% !important;
+}
+.golden-text-color{
+    color: #FFB237;
+}
+.header{
+    /* padding: 100px; */
+}
+
+.header-p{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.1;
+    color: rgb(255, 255, 255);
+}
+.header-ticket{
+    max-width: 300px;
+    margin: 0px auto;
+    position: relative !important;
+}
+
+#header-ticket-btn{
+    background-color: #7645D9;
+    color: white;
+    font-weight: 600;
+    width: 80%;
+    height: 40% !important;
+    position: absolute !important;
+    margin: 0px auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;    
+}
+
+.sec2-a{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.1;
+}
+.sec2-b{
+    font-size: 32px; line-height: 1.1;
+}
+.checkwinner-lotteryid{
+  background: none;
+  border: 0px;
+  border-bottom: 1px solid white;
+  margin-bottom: 20px;
+  color: white;
+}
